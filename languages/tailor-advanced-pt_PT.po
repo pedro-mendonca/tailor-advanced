@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Tailor Advanced 1.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tailor-advanced\n"
 "POT-Creation-Date: 2017-01-13 15:49+0000\n"
-"PO-Revision-Date: 2017-01-13 15:58+0000\n"
+"PO-Revision-Date: 2017-01-13 16:05+0000\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -308,7 +308,7 @@ msgstr ""
 
 #: includes/helpers-general.php:121
 msgid "Animation timing"
-msgstr "Duração da animação"
+msgstr "Tempo da animação"
 
 #: includes/helpers-general.php:125
 msgid "Duration"
