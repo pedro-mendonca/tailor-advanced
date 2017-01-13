@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Tailor Advanced 1.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tailor-advanced\n"
 "POT-Creation-Date: 2017-01-13 15:49+0000\n"
-"PO-Revision-Date: 2017-01-13 15:49+0000\n"
+"PO-Revision-Date: 2017-01-13 15:58+0000\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -67,7 +67,7 @@ msgstr "Ligação da imagem"
 #: includes/elements/class-image.php:160 includes/helpers-general.php:34
 #: includes/helpers-general.php:172
 msgid "None"
-msgstr "Nenhum"
+msgstr "Nenhuma"
 
 #: includes/elements/class-image.php:162
 msgid "Lightbox"
